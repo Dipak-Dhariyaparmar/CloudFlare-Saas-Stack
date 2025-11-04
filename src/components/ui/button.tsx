@@ -1,4 +1,4 @@
-//Tis copoet is related to btt
+//Tis copoet is related to btts
 
 import * as React from "react"
 import { Slot } from "@radix-ui/react-slot"
